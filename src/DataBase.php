@@ -10,11 +10,11 @@ class DataBase
 //    private $conn;
 
     private $config = [
-        'host' => '127.0.0.1',
+        'host' => 'localhost',
         'user' => 'root',
-        'pass' => '',
-        'base' => 'a',
-        'port' => '3306'
+        'pass' => 'coderslab',
+        'base' => 'shop',
+//        'port' => '3306'
     ];
 
     private function generalFind($sql,$params)
