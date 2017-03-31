@@ -12,7 +12,7 @@ class DataBase
     private $config = [
         'host' => 'localhost',
         'user' => 'root',
-        'pass' => 'coderslab',
+        'pass' => 'coderslabwueifhsd',
         'base' => 'shop',
 //        'port' => '3306'
     ];
