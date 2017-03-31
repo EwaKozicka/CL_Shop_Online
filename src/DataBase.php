@@ -14,7 +14,7 @@ class DataBase
         'user' => 'root',
         'pass' => 'coderslabwueifhsd',
         'base' => 'shop',
-//        'port' => '3306'
+//        'port' => '3306'sp'odf
     ];
 
     private function generalFind($sql,$params)
